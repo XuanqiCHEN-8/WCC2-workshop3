@@ -10,6 +10,7 @@ The interaction logic explores the "Fragile Balance" between nature and humanity
 
 ## Acknowledgements
 •Wikidata Query Service
+
 •OpenProccessing
 
 ## Reference
