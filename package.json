@@ -1,0 +1,13 @@
+{
+  "name": "volcano-final-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "volcanoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
