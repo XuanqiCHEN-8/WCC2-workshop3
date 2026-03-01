@@ -1,13 +1,13 @@
 {
-  "name": "volcano-final-code",
+  "name": "volcano-constellation",
   "version": "1.0.0",
-  "description": "",
-  "main": "volcanoes.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "node volcanoes.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
 }
