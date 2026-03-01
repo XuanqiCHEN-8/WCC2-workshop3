@@ -11,3 +11,8 @@ The interaction logic explores the "Fragile Balance" between nature and humanity
 ## Acknowledgements
 •Wikidata Query Service
 •OpenProccessing
+
+## Reference
+Turner, M. (2025). Points in the wind. - Marshall Turner - OpenProcessing. [online] Openprocessing.org. Available at: https://openprocessing.org/sketch/84276 [Accessed 1 Mar. 2026].
+
+Wikidata Query Service (2026). Wikidata Query Service. [online] Wikidata.org. Available at: https://query.wikidata.org/# [Accessed 1 Mar. 2026].
