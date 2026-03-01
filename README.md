@@ -1,5 +1,5 @@
 # The Subterranean Sky
-Author: Xuanqi Chen
+Author: Xuanqi Chen/Lu Yao
 
 ## Inspiration
 My inspiration came from a striking moment in Lanzarote: watching dry brush ignite instantly from the earth's raw geothermal heat. While traditional maps show volcanoes as physical elevations, the island’s "lunar" landscape felt more like an alien sky. This led me to a conceptual reversal—reimagining hidden subterranean magma as a celestial map. By mapping volcanic coordinates into a glowing constellation, I transformed the fiery energy beneath our feet into a silent, floating galaxy of data.
