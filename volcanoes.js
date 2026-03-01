@@ -64,7 +64,7 @@ async function main() {
 
         //fs.writeFileSync pattern
         fs.writeFileSync('volcanoes_data.json', JSON.stringify(results, null, 2));
-        console.log(`✅ Success! Found ${results.length} points.`);
+        console.log(`Success! Found ${results.length} points.`);
     } catch (error) {
         console.error("Error:", error.message);
     }

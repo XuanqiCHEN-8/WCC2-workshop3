@@ -1,6 +1,6 @@
 /**
  * Base Logic: Derived from Sketch 84276 & scrape_highlands.js (Milly Gunn)
- * Visual Logic Source: "Ballons" by [Original Author], OpenProcessing Sketch 84276
+ * Visual Logic Source: "Ballons" by  Marshall Turner, OpenProcessing Sketch 84276
  */
 
 let volcanoes = [];
